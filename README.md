@@ -58,8 +58,8 @@ This game allows users to answer quiz questions and progress through different l
 - GameManager.cs : Controls the game flow  
 - Player.cs : Handles player actions and data  
 - GameLevel.cs : Abstract class for levels  
-- BeginnerLevel.cs : Beginner level implementation  
-- AdvancedLevel.cs : Advanced level implementation  
+- BeginnerLevel.cs : Implement Beginner level  
+- AdvancedLevel.cs : Implement Advanced level  
 - Quiz.cs : Handles quiz questions and answers  
 - Timer.cs : Manages time for each level  
 
